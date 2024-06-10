@@ -1,0 +1,27 @@
+{
+  "name": "mern_blog_project",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon api/index.js",
+    "start":"node api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaC25/Mern-Web-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaC25/Mern-Web-App/issues"
+  },
+  "homepage": "https://github.com/AdityaC25/Mern-Web-App#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+
+  }
+}
